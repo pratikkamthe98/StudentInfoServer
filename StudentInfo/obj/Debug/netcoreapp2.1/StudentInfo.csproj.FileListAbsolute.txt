@@ -1,0 +1,14 @@
+D:\ilogix\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.deps.json
+D:\ilogix\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.runtimeconfig.json
+D:\ilogix\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.runtimeconfig.dev.json
+D:\ilogix\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.dll
+D:\ilogix\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.csprojAssemblyReference.cache
+D:\ilogix\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.csproj.CoreCompileInputs.cache
+D:\ilogix\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.RazorAssemblyInfo.cache
+D:\ilogix\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.RazorAssemblyInfo.cs
+D:\ilogix\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.AssemblyInfoInputs.cache
+D:\ilogix\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.AssemblyInfo.cs
+D:\ilogix\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.RazorTargetAssemblyInfo.cache
+D:\ilogix\StudentInfo\StudentInfo\bin\Debug\netcoreapp2.1\StudentInfo.pdb
+D:\ilogix\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.dll
+D:\ilogix\StudentInfo\StudentInfo\obj\Debug\netcoreapp2.1\StudentInfo.pdb
